@@ -1,0 +1,3 @@
+export const AppText = 'The awesome Q/A tool';
+export const AppTextDescription = 'The Q&A tool provides a space for community members to ask questions and get answers. Administrators and experts can provide answers and additional resources simply, in a moderated process.'
+export const QuestionsIntroText = 'Please find the questions and answers so far created. Feel free to create your own questions.';

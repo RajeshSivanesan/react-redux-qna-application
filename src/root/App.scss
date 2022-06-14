@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 5px;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.appWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 10px;
+}
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
