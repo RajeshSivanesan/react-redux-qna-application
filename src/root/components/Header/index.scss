@@ -1,0 +1,15 @@
+.logo {
+    height: 45vmin;
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: black;
+}
+
+.headingWrapper {
+    margin-top: 20px;
+}
